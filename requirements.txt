@@ -1,3 +1,4 @@
 osmnx
 matplotlib
 folium
+scikit-learn
